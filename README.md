@@ -1,5 +1,3 @@
-# STARTER-jpa04
-
 Running at: <https://jpa04-johnhagedorncs.dokku-16.cs.ucsb.edu>
 
 ## Thanks
